@@ -19,3 +19,18 @@ if media >= 6:
 elif media < 6:
     print("Parabéns você foi reprovado.")
 '''
+
+'''
+-----Operadores Aritméticos-----
+
+Ordem de precedência:
+1 - ()
+2 - **(Potências)
+3 - *(Multiplicação), /(Divisão), //(Divisão Inteira), %(Resto da Divisão)
+4 - +(Soma), -(Subtração)
+
+Raiz - valor**(1/2) [Quadradra]
+     - valor**(1/3) [Cubica]
+
+Não quebrar linha em um print - (end='')
+'''
